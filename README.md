@@ -1,2 +1,2 @@
 # Python_Titanic_EDA
-Titanic dataset EDA Case Study
+This Project is created to do a basic EDA Case Study in the Titanic data.
